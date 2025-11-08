@@ -77,6 +77,6 @@ Si este proyecto te fue útil, ¡considera darle una estrella en GitHub! ⭐
 
 **[⬆ Volver arriba](#-las-quintillizas---bot-de-whatsapp-baileysv6)**
 
-Hecho con ❤️ por [Tu Nombre](https://github.com/tu-usuario)
+Hecho con ❤️ por [leoxito](https://github.com/leoxito)
 
 </div>
