@@ -4,7 +4,7 @@
   
 ![Banner](https://qu.ax/VhZMq.jpg)
 
-[![GitHub Stars](https://img.shields.io/github/stars/tu-usuario/quintillizas-bot?style=social)](https://github.com/tu-usuario/quintillizas-bot)
+[![GitHub Stars](https://img.shields.io/github/stars/leoxito/Quintillizas-BaileysV6?style=social)](https://github.com/leoxito/Quintillizas-BaileysV6)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Baileys](https://img.shields.io/badge/Baileys-V6-green.svg)](https://github.com/WhiskeySockets/Baileys)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
