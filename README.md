@@ -51,11 +51,11 @@
 - 📱 Multi-dispositivo nativo
 - 🔐 Autenticación segura con QR
 
-## 🚀 Instalación
+## `🚀 Instalación`
 
 ### Requisitos Previos
 
-Asegúrate de tener instalado:
+```Asegúrate de tener instalado:```
 
 ```bash
 Node.js: v18.x o superior
@@ -67,11 +67,9 @@ Git: Para clonar el repositorio
 `¿Necesitas ayuda? Aquí hay algunas opciones:`
 
 - 📧 Email: xzzysultra@gmail.com 
-## ⭐ Dale una Estrella
+## ```⭐ Dale una Estrella```
 
 Si este proyecto te fue útil, ¡considera darle una estrella en GitHub! ⭐
-
----
 
 <div align="center">
 
